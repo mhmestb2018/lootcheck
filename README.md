@@ -1,3 +1,9 @@
+##lootcheck wallet app.  Wallet with deposits, withdrawals, bitcoin, etc.
+
+###App has React, Redux, Redux-thunk, Javascript,  Coindesk api
+
+###Tests using TDD and BDD with Jest, Enzyme, redux-mock-store, mock-fetch, etc.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
